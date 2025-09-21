@@ -50,4 +50,9 @@ Analyze social media ad campaigns to measure performance and provide actionable 
 ---
 
 ### 🔹 Tutorials / References
-- [Power BI Social Media Dashboard Tutorial](https://www.youtube.com/watch?v=example) 
+- [Power BI Social Media Dashboard Tutorial](https://www.youtube.com/watch?v=example)
+
+  ---
+
+### 🔹 View Live Dashboard
+- 🌐 [Open Dashboard in Power BI Service](https://app.powerbi.com/view?r=eyJrIjoiODdkMDhiZjYtYzI2NS00ZTQ4LWJmNzUtZGQ2MjRhNGU1MTk3IiwidCI6IjI4NTk5YTNjLTI0MjMtNGZlMy04YmZlLTcwMGE5ODYwYTMxOCJ9)
